@@ -1,5 +1,5 @@
 {
-    "name": "phpunit/dbunit",
+    "name": "webmailcontatos/dbunit",
     "description": "PHPUnit extension for database interaction testing",
     "type": "library",
     "keywords": [
@@ -7,7 +7,7 @@
         "testing",
         "xunit"
     ],
-    "homepage": "https://github.com/sebastianbergmann/dbunit/",
+    "homepage": "https://github.com/webmailcontatos/dbunit/",
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -17,7 +17,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/sebastianbergmann/dbunit/issues"
+        "issues": "https://github.com/webmailcontatos/dbunit/issues"
     },
     "require": {
         "php": "^7.1",
